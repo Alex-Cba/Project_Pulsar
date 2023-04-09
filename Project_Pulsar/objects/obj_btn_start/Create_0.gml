@@ -1,0 +1,1 @@
+instance_deactivate_layer(layer_get_id("Opciones"));
