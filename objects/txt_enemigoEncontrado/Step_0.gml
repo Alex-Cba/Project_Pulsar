@@ -1,0 +1,1 @@
+scp_Destroy_txt(txt_enemigoEncontrado);
